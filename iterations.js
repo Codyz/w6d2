@@ -39,4 +39,5 @@ var subStrings = function(str) {
 // Tests
 //console.log(bubbleSort([1,7,4,45,0,8,74,52,8,6]));
 //console.log(subStrings("cat"))
+console.log(subStrings([1,2,3,4]));
 
